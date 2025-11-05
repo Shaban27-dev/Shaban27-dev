@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Md Shaban Alam
 
-<!--
-**Shaban27-dev/Shaban27-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Python Learner | 100 Days of Code**  
+🎯 **Aspiring Data Scientist & Developer**  
+📍 India | 📧 **shabandev27@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Learning
+- 🐍 Python  
+- 📘 100 Days of Code (Python Bootcamp)  
+- ⚙ Basic Git & GitHub  
+
+---
+
+### 🎯 Goals
+- ✅ Build real-world Python projects  
+- 🎓 Become a **Data Scientist**  
+- 💼 Work as a **Developer** in future  
+
+---
+
+### 🛠️ Skills & Tools (Learning Phase)
+| Python | Git & GitHub | VS Code |  
+|--------|--------------|---------|  
+| ✅ Basics | ✅ Commit & Push | ✅ Editor Setup |  
+| ✅ Mini Projects | ✅ Branching (learning) | ✅ Extensions |  
+
+---
+
+### 📂 Featured Projects
+| Project Name | Description |
+|--------------|-------------|
+| 🏧 **ATM System** | A simple ATM simulation using Python. |
+| 🧮 **Mini Projects** | Small Python programs (Calculator, Guessing Game, etc.) |
+| 🎯 **100 Days of Code** | Daily Python learning journey. |
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: **shabandev27@gmail.com**
+- 🌱 Always learning & improving!
+
+---
+
+⭐ *Thanks for visiting! Feel free to check out my repositories and follow my journey.*
