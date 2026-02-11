@@ -1,46 +1,78 @@
-# 👋 Hi, I'm Md Shaban Alam
+👋 Hi, I’m Md Shaban Alam
 
-💻 **Python Learner | 100 Days of Code**  
-🎯 **Aspiring Data Scientist & Developer**  
-📍 India | 📧 **shabandev27@gmail.com**
+💻 Python Developer (Learning & Building)
+📘 100 Days of Code — Python
+🎯 Aspiring Python Developer & Automation Engineer
+📍 India | 📧 shabandev27@gmail.com
 
----
+🚀 About Me
 
-### 🚀 What I'm Learning
-- 🐍 Python  
-- 📘 100 Days of Code (Python Bootcamp)  
-- ⚙ Basic Git & GitHub  
+I’m a self-driven Python learner focused on building strong fundamentals through hands-on projects.
+I believe in learning by doing — writing code, breaking it, fixing it, and improving it.
 
----
+Currently, I’m building real Python projects while exploring:
 
-### 🎯 Goals
-- ✅ Build real-world Python projects  
-- 🎓 Become a **Data Scientist**  
-- 💼 Work as a **Developer** in future  
+core programming concepts
 
----
+Object-Oriented Programming (OOP)
 
-### 🛠️ Skills & Tools (Learning Phase)
-| Python | Git & GitHub | VS Code |  
-|--------|--------------|---------|  
-| ✅ Basics | ✅ Commit & Push | ✅ Editor Setup |  
-| ✅ Mini Projects | ✅ Branching (learning) | ✅ Extensions |  
+automation scripts
 
----
+basic data analysis
 
-### 📂 Featured Projects
-| Project Name | Description |
-|--------------|-------------|
-| 🏧 **ATM System** | A simple ATM simulation using Python. |
-| 🧮 **Mini Projects** | Small Python programs (Calculator, Guessing Game, etc.) |
-| 🎯 **100 Days of Code** | Daily Python learning journey. |
 
----
+🧠 What I’m Learning Right Now
 
-### 📫 Connect With Me
-- 📧 Email: **shabandev27@gmail.com**
-- 🌱 Always learning & improving!
+🐍 Python (core + OOP)
 
----
+📘 100 Days of Code (Python Bootcamp)
 
-⭐ *Thanks for visiting! Feel free to check out my repositories and follow my journey.*
+⚙️ Git & GitHub (version control)
+
+🧮 Basics of Data Analysis (Pandas)
+
+🛠 Writing clean, structured code
+
+
+🎯 Goals
+
+✅ Build strong Python fundamentals
+
+🧠 Become skilled in Python Automation & scripting  
+
+💼 Work as a Freelancer or Python Developer
+
+🚀 Create portfolio-ready projects
+
+
+🛠️ Skills & Tools (Learning Phase)
+Skill	Level
+🐍 Python	✅ Basics → Intermediate
+🧠 OOP	✅ Learning by projects
+📂 File Handling	✅ Confident
+📊 Pandas	🔄 Learning
+🌐 Git & GitHub	✅ Commit & Push
+💻 VS Code	✅ Daily use
+📂 Featured Repositories
+
+
+🧮 Python Mini Projects (Day 1–20)
+A collection of CLI apps, games, OOP projects, automation scripts, and Pandas-based analysis.
+
+🏧 ATM & Management Systems
+Practice projects focused on logic, validation, and real-world simulation.
+
+🎯 100 Days of Code (Python)
+My daily Python learning journey with consistent progress.
+
+
+📫 Connect With Me
+
+📧 Email: shabandev27@gmail.com
+
+📍 Location: India
+
+🌱 Always learning, improving, and building.
+
+⭐ Thanks for visiting my profile!
+Feel free to explore my repositories and follow my journey 🚀
