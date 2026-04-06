@@ -1,78 +1,68 @@
-👋 Hi, I’m Md Shaban Alam
+# Shaban Alam — Python Developer
 
-💻 Python Developer (Learning & Building)
-📘 100 Days of Code — Python
-🎯 Aspiring Python Developer & Automation Engineer
-📍 India | 📧 shabandev27@gmail.com
+Python developer available for freelance work.
+I build automation tools, data utilities, CLI applications, and management systems.
 
-🚀 About Me
+📧 shabandev27@gmail.com | 📍 India | 💼 Open to freelance projects
 
-I’m a self-driven Python learner focused on building strong fundamentals through hands-on projects.
-I believe in learning by doing — writing code, breaking it, fixing it, and improving it.
+---
 
-Currently, I’m building real Python projects while exploring:
+## What I can build for you
 
-core programming concepts
+| Service | Examples |
+|---|---|
+| **Automation scripts** | File organizer, batch renaming, data processing pipelines |
+| **CLI tools & utilities** | Converters, calculators, lookup tools, schedulers |
+| **Data analysis tools** | Grade analyzers, report generators, Pandas-based dashboards |
+| **Management systems** | Student records, library systems, inventory tracking |
+| **Desktop GUI apps** | Tkinter-based apps with timers, games, and interactive UI |
 
-Object-Oriented Programming (OOP)
+---
 
-automation scripts
+## Projects
 
-basic data analysis
+### Productivity & Automation
+- **File Organizer** — Automatically sorts files into folders by type
+- **Pomodoro Timer** — Work/break cycle timer built with Tkinter GUI
+- **To-Do List** — Task management with add, complete, and delete operations
+- **NATO Alphabet Converter** — Converts any word to phonetic alphabet using Pandas
 
+### Data & Analysis
+- **Student Grade Analyzer** — Reads student data with Pandas, computes averages and rankings
+- **Report Card Generator** — Produces formatted academic reports from raw input
+- **Student Management System** — Full CRUD system for student records
 
-🧠 What I’m Learning Right Now
+### Management Systems
+- **Library Management System** — Book borrowing, returning, and inventory tracking
+- **ATM Simulator** — Balance, deposit, withdrawal with input validation
+- **Bank Account (OOP)** — Object-oriented account management with encapsulation
+- **Contact Lookup** — Search and manage a contact directory
 
-🐍 Python (core + OOP)
+### Tools & Calculators
+- **Smart Calculator** — Extended calculator with operation history
+- **Unit Converter** — Converts length, weight, and temperature units
+- **Password Checker** — Validates password strength against security rules
+- **MCQ Quiz App** — Multiple-choice quiz engine with score tracking
 
-📘 100 Days of Code (Python Bootcamp)
+### Games & Interactive
+- **Number Guessing Game** — Random number game with attempt tracking
+- **Hangman** — Classic word guessing game with ASCII display
+- **Snake Game** — Playable snake with score and collision detection
+- **Quiz Game** — Timed trivia game with result summary
+- **Turtle Drawing App** — Geometric pattern generator using Python Turtle
+- **Mini Game Framework** — Reusable base structure for Python games
 
-⚙️ Git & GitHub (version control)
+---
 
-🧮 Basics of Data Analysis (Pandas)
+## Stack
 
-🛠 Writing clean, structured code
+## Hire me
 
+I'm available for short-to-medium freelance projects.
+If you need a Python script, automation tool, data utility, or CLI application — let's talk.
 
-🎯 Goals
+📧 **shabandev27@gmail.com**
 
-✅ Build strong Python fundamentals
+---
 
-🧠 Become skilled in Python Automation & scripting  
-
-💼 Work as a Freelancer or Python Developer
-
-🚀 Create portfolio-ready projects
-
-
-🛠️ Skills & Tools (Learning Phase)
-Skill	Level
-🐍 Python	✅ Basics → Intermediate
-🧠 OOP	✅ Learning by projects
-📂 File Handling	✅ Confident
-📊 Pandas	🔄 Learning
-🌐 Git & GitHub	✅ Commit & Push
-💻 VS Code	✅ Daily use
-📂 Featured Repositories
-
-
-🧮 Python Mini Projects (Day 1–20)
-A collection of CLI apps, games, OOP projects, automation scripts, and Pandas-based analysis.
-
-🏧 ATM & Management Systems
-Practice projects focused on logic, validation, and real-world simulation.
-
-🎯 100 Days of Code (Python)
-My daily Python learning journey with consistent progress.
-
-
-📫 Connect With Me
-
-📧 Email: shabandev27@gmail.com
-
-📍 Location: India
-
-🌱 Always learning, improving, and building.
-
-⭐ Thanks for visiting my profile!
-Feel free to explore my repositories and follow my journey 🚀
+*22 projects shipped. More in progress.*
