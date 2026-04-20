@@ -1,7 +1,7 @@
 # Shaban Alam — Python Developer
 
 Python developer available for freelance work.
-I build automation tools, data utilities, CLI applications, and management systems.
+I build automation tools, API integrations, email systems, CLI applications, and data utilities.
 
 📧 shabandev27@gmail.com | 📍 India | 💼 Open to freelance projects
 
@@ -12,6 +12,8 @@ I build automation tools, data utilities, CLI applications, and management syste
 | Service | Examples |
 |---|---|
 | **Automation scripts** | File organizer, batch renaming, data processing pipelines |
+| **API integrations** | Weather alerts, stock monitors, news fetchers, multi-API bots |
+| **Email automation** | Scheduled email delivery, alert systems, content bots |
 | **CLI tools & utilities** | Converters, calculators, lookup tools, schedulers |
 | **Data analysis tools** | Grade analyzers, report generators, Pandas-based dashboards |
 | **Management systems** | Student records, library systems, inventory tracking |
@@ -20,6 +22,11 @@ I build automation tools, data utilities, CLI applications, and management syste
 ---
 
 ## Projects
+
+### API & Email Automation
+- **Multi-API Alert Bot** — Monitors live weather and stock prices across three APIs (OpenWeatherMap, Alpha Vantage, NewsAPI) and sends formatted email alerts when thresholds are exceeded
+- **Smart Joke Email Automator** — Fetches jokes from a public API, stores them in JSON history, and delivers a random joke via email every Sunday automatically
+- **Weather API Fetcher** — Connects to OpenWeatherMap API, gives smart contextual advice based on conditions, and logs query history to a local JSON file
 
 ### Productivity & Automation
 - **File Organizer** — Automatically sorts files into folders by type
@@ -56,13 +63,18 @@ I build automation tools, data utilities, CLI applications, and management syste
 
 ## Stack
 
+Python 3 · Requests · smtplib · python-dotenv · Pandas · Tkinter · JSON · os · shutil
+OpenWeatherMap API · Alpha Vantage API · NewsAPI · Official Joke API
+
+---
+
 ## Hire me
 
 I'm available for short-to-medium freelance projects.
-If you need a Python script, automation tool, data utility, or CLI application — let's talk.
+If you need a Python script, automation tool, API integration, or email system — let's talk.
 
 📧 **shabandev27@gmail.com**
 
 ---
 
-*20 projects shipped. More in progress.*
+*26 projects shipped. More in progress.*
